@@ -3,73 +3,47 @@
   <h1>👋 Hi there, I'm naixue2233</h1>
   <h3>很高兴认识你，我是千叶奈雪 🌸</h3>
   
-  <p>
-    🎯 Studying, <b>Vibe Coding</b> 🎧, and Exploring...
-  </p>
-
-  <!-- 增加了 ?v=1 强制刷新缓存 -->
-  <p>
-    <img src="https://profile-counter.glitch.me/naixue2233/count.svg?v=1" alt="Views" />
-  </p>
+  <p>💻 C++ & Python Developer | 🎮 Vibe Coder</p>
   
   <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true" width="100" alt="duck">
+</div>
 
-  <br /><br />
+---
 
-  <!-- Social Links -->
-  <p>
-    <a href="https://github.com/naixue2233" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
-    </a>
-    <a href="https://twitter.com/@naixue66679270" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter" />
-    </a>
-    <a href="https://qm.qq.com/q/ZoduzXkrqs" target="_blank">
-      <img src="https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=qq&logoColor=white" alt="QQ" />
-    </a>
-    <a href="http://www.coolapk.com/u/4067622" target="_blank">
-      <img src="https://img.shields.io/badge/Coolapk-0D9118?style=flat-square&logo=android&logoColor=white" alt="coolapk" />
-    </a>
-  </p>
+**✨ About Me**
+* 🔭 **Currently focusing on:** C++ development, Python scripting, and Windows Native API utilities.
+* 🌱 **Exploring:** Low-level hardware modifications, OpenWrt configuration, and BIOS tweaking.
+* 🎧 **Vibe:** Coding with wired headphones in exclusive audio mode.
+* 💬 **Let's talk about:** Honor of Kings, custom scripts, or homebrew consoles.
 
-  <!-- Tech Stack -->
-  <p> 
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="c++"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>
-    </a>
-    <img src="https://img.shields.io/badge/Vibe_Coding-a855f7?style=flat-square&logo=githubcopilot&logoColor=white" alt="vibecoding"/>
-  </p>
+**🛠️ Tech Stack & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"/>
+  <img src="https://img.shields.io/badge/Vibe_Coding-a855f7?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="vibe"/>
+</p>
 
-  <br />
+**🤝 Let's Connect**
+<p>
+  <a href="https://github.com/naixue2233" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://twitter.com/@naixue66679270" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://qm.qq.com/q/ZoduzXkrqs" target="_blank">
+    <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=white" alt="QQ" />
+  </a>
+  <a href="http://www.coolapk.com/u/4067622" target="_blank">
+    <img src="https://img.shields.io/badge/Coolapk-0D9118?style=for-the-badge&logo=android&logoColor=white" alt="coolapk" />
+  </a>
+</p>
 
-  <!-- Activity Graph (增加了 &v=1) -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naixue2233&bg_color=161b22&border_color=30363d&color=a855f7&line=a855f7&point=ffffff&v=1" width="90%"/>
-  </p>
-
-  <!-- Stats & Streak (增加了 &v=1) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=naixue2233&show_icons=true&locale=en&bg_color=161b22&border_color=30363d&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&v=1" height="165" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naixue2233&background=161b22&border=30363d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&dates=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&v=1" height="165" alt="streak" />
-  </p>
-
-  <!-- Top Langs & Quote (增加了 &v=1) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naixue2233&show_icons=true&layout=compact&bg_color=161b22&border_color=30363d&title_color=a855f7&text_color=c9d1d9&v=1" height="165" alt="top langs" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=naixue2233_生活的解药&bg_color=161b22&border_color=30363d&author_color=a855f7&text_color=c9d1d9" height="165" alt="quote" />
-  </p>
-  
-  <br />
-
-  <!-- Hacker GIF footer -->
-  <p>
-    <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="200" alt="hacker">
-  </p>
-
+<div align="center">
+  <br/>
+  <i>“简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈”</i>
+  <br/>
+  <br/>
+  <b>— naixue2233_生活的解药</b>
 </div>
