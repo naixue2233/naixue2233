@@ -4,15 +4,13 @@
   <h3>很高兴认识你，我是千叶奈雪 🌸</h3>
   <p>🎯 Studying, Coding, and Exploring...</p>
 
-  <!-- Profile Views & Duck GIF -->
   <p>
-    <img src="https://profile-counter.glitch.me/naixue2233/count.svg" alt="Views" style="background-color: transparent;" />
+    <img src="https://profile-counter.glitch.me/naixue2233/count.svg" alt="Views" />
   </p>
   <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true" width="100">
 
   <br />
 
-  <!-- Social Links -->
   <h3>🤝 Connect with me</h3>
   <p>
     <a href="https://github.com/naixue2233" target="_blank">
@@ -31,7 +29,6 @@
 
   <br />
 
-  <!-- Tech Stack -->
   <h3>🛠️ Languages and Tools</h3>
   <p> 
     <a href="https://www.python.org/" target="_blank"> 
@@ -53,27 +50,22 @@
 
   <br />
 
-  <!-- GitHub Stats Section (Glass/Transparent Theme) -->
   <h3>📊 GitHub Stats</h3>
   
-  <!-- Activity Graph (Transparent BG) -->
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naixue2233&theme=react-dark&bg_color=00000000&hide_border=true" width="90%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naixue2233&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
   </p>
 
-  <!-- Stats & Streak (Side by Side, Transparent BG) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=naixue2233&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" height="170" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naixue2233&theme=transparent&hide_border=true&background=00000000&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="170" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=naixue2233&show_icons=true&locale=en&theme=radical&hide_border=true" height="170" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naixue2233&theme=radical&hide_border=true" height="170" alt="streak" />
   </p>
 
-  <!-- Top Langs & Quote (Side by Side, Transparent BG) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naixue2233&theme=transparent&show_icons=true&hide_border=true&layout=compact&title_color=3b82f6" height="170" alt="top langs" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=naixue2233_生活的解药" height="170" alt="quote" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naixue2233&theme=radical&show_icons=true&hide_border=true&layout=compact" height="170" alt="top langs" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=naixue2233_生活的解药" height="170" alt="quote" />
   </p>
 
-  <!-- Hacker GIF footer -->
   <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="250">
 
 </div>
