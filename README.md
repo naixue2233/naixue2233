@@ -1,16 +1,19 @@
-<div align="left">
+<div align="center">
   
-  <!-- Right-aligned Duck GIF for balance -->
-  <img align="right" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true" width="120" alt="duck">
-
   <h1>👋 Hi there, I'm naixue2233</h1>
   <h3>很高兴认识你，我是千叶奈雪 🌸</h3>
+  
   <p>
-    🎯 Studying, Coding, and Exploring... &emsp;
-    <img src="https://profile-counter.glitch.me/naixue2233/count.svg" alt="Views" style="vertical-align: middle;" />
+    🎯 Studying, <b>Vibe Coding</b> 🎧, and Exploring...
   </p>
 
-  <br />
+  <p>
+    <img src="https://profile-counter.glitch.me/naixue2233/count.svg" alt="Views" />
+  </p>
+  
+  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true" width="100" alt="duck">
+
+  <br /><br />
 
   <!-- Social Links (Flat-square style) -->
   <p>
@@ -28,7 +31,7 @@
     </a>
   </p>
 
-  <!-- Tech Stack (Flat-square style) -->
+  <!-- Tech Stack & Vibe (Flat-square style) -->
   <p> 
     <a href="https://www.python.org/" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
@@ -39,39 +42,33 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript"/>
     </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css"/>
-    </a>
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Activity Graph (Neon Purple & Transparent) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naixue2233&theme=transparent&bg_color=00000000&hide_border=true&color=a855f7&line=a855f7&point=ffffff" width="100%"/>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Stats & Streak -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=naixue2233&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=8b949e" height="165" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naixue2233&theme=transparent&hide_border=true&background=00000000&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&dates=8b949e&sideNums=8b949e&sideLabels=8b949e" height="165" alt="streak" />
+    <img src="https://img.shields.io/badge/Vibe_Coding-a855f7?style=flat-square&logo=githubcopilot&logoColor=white" alt="vibecoding"/>
   </p>
 
-  <!-- Top Langs & Quote -->
+  <br />
+
+  <!-- Activity Graph (Solid Background with subtle border) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naixue2233&theme=transparent&show_icons=true&hide_border=true&layout=compact&title_color=a855f7&text_color=8b949e" height="165" alt="top langs" />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=naixue2233_生活的解药&author_color=a855f7&text_color=8b949e" height="165" alt="quote" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=naixue2233&bg_color=161b22&border_color=30363d&color=a855f7&line=a855f7&point=ffffff" width="90%"/>
+  </p>
+
+  <!-- Stats & Streak (Solid Background) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=naixue2233&show_icons=true&locale=en&bg_color=161b22&border_color=30363d&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="165" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=naixue2233&background=161b22&border=30363d&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&dates=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9" height="165" alt="streak" />
+  </p>
+
+  <!-- Top Langs & Quote (Solid Background) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naixue2233&show_icons=true&layout=compact&bg_color=161b22&border_color=30363d&title_color=a855f7&text_color=c9d1d9" height="165" alt="top langs" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=简简单单，平平淡淡，开开心心，我谓之终点~~❤🎈🎈🎈&author=naixue2233_生活的解药&bg_color=161b22&border_color=30363d&author_color=a855f7&text_color=c9d1d9" height="165" alt="quote" />
   </p>
   
   <br />
 
   <!-- Hacker GIF footer -->
-  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="200" alt="hacker">
+  <p>
+    <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="200" alt="hacker">
+  </p>
+
 </div>
